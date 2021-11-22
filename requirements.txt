@@ -1,0 +1,5 @@
+numpy==1.19.5
+pandas==1.1.5
+bs4
+PyYAML==5.4.1
+plyvel
